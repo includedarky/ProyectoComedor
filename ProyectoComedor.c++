@@ -28,7 +28,11 @@ struct supervisor{ //estructura supervisor (probablemente se debe incorporar com
       };  
 int main()
 {
-    std::cout<<"Hello World";
+    cout<<"Hello World";
+
+    cout<<"hola a todos";
+
+
   
         
         
